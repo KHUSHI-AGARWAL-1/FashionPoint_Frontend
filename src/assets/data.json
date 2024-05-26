@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Men's Classic T-Shirt",
+      "price": 119.99,
+      "image":"https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG9wJTIwd2VhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "desc": "A timeless classic, comfortable and versatile, perfect for everyday wear.",
+      "category": "Men's Apparel"
+    },
+    {
+      "id": 2,
+      "name": "Women's Skinny Jeans",
+      "price": 139.99,
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG9wJTIwd2VhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "desc": "These skinny jeans offer a sleek and stylish fit, ideal for dressing up or down.",
+      "category": "Women's Apparel"
+    },
+    {
+      "id": 3,
+      "name": "Unisex Hoodie",
+      "price": 129.99,
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG9wJTIwd2VhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "desc": "Stay warm and cozy in this soft and durable hoodie, suitable for all genders.",
+      "category": "Unisex Apparel"
+    },
+    {
+      "id": 4,
+      "name": "Kids' Printed T-Shirt",
+      "price": 114.99,
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG9wJTIwd2VhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "desc": "Fun and vibrant, these printed t-shirts are perfect for active kids.",
+      "category": "Kids' Apparel"
+    },
+    {
+      "id": 5,
+      "name": "Men's Slim Fit Suit",
+      "price": 149.99,
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG9wJTIwd2VhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "desc": "Look sharp and sophisticated in this tailored slim fit suit, perfect for occasions.",
+      "category": "Men's Apparel"
+    },
+    {
+      "id": 6,
+      "name": "Women's Maxi Dress",
+      "price": 149.99,
+      "image":"https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG9wJTIwd2VhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "desc": "Elegant and flowy, this maxi dress is a must-have for any summer wardrobe.",
+      "category": "Women's Apparel"
+    },
+    {
+      "id": 7,
+      "name": "Unisex Sneakers",
+      "price": 159.99,
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG9wJTIwd2VhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "desc": "These versatile sneakers offer comfort and style, suitable for any casual outing.",
+      "category": "Unisex Footwear"
+    },
+    {
+      "id": 8,
+      "name": "Kids' Denim Jacket",
+      "price": 124.99,
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG9wJTIwd2VhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "desc": "Keep your little one stylish and warm with this classic denim jacket.",
+      "category": "Kids' Apparel"
+    },
+    {
+      "id": 9,
+      "name": "Women's Leather Handbag",
+      "price": 179.99,
+      "image":"https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG9wJTIwd2VhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "desc": "Add a touch of sophistication to any outfit with this genuine leather handbag.",
+      "category": "Women's Accessories"
+    },
+    {
+      "id": 10,
+      "name": "Men's Casual Shorts",
+      "price": 124.99,
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG9wJTIwd2VhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "desc": "Stay cool and comfortable in these  casual shorts, perfect for summer.",
+      "category": "Men's Apparel"
+    }
+  ]
+  
