@@ -13,6 +13,5 @@ FashionPoint is a full-stack application built using the MERN stack (MongoDB, Ex
 - **Frontend**: React
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Authentication**: JSON Web Tokens (JWT)
 
 Link: https://fashion-point-frontend.vercel.app/
