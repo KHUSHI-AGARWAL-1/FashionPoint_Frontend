@@ -1,12 +1,18 @@
-<<<<<<< HEAD
-# React + Vite
+# FashionPoint
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+FashionPoint is a full-stack application built using the MERN stack (MongoDB, Express.js, React, Node.js) that allows users to access fashion trends along with the ability to sign up and log in.
 
-Currently, two official plugins are available:
+## Features
+- **User Authentication**: Signup and login functionality to access the app.
+- **Fashion Trends**: Access the latest fashion trends and updates.
+- **Personalized Experience**: Users can save favorite trends, follow fashion influencers, and receive personalized recommendations.
+- **Social Sharing**: Share favorite trends with friends and followers.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# FashionPoint_Frontend
->>>>>>> origin/main
+## Tech Stack
+- **Frontend**: React
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: JSON Web Tokens (JWT)
+
+Link: https://fashion-point-frontend.vercel.app/
